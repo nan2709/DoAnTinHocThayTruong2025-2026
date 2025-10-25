@@ -1,0 +1,10 @@
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.csproj.AssemblyReference.cache
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\CSV_Demo.Form1.resources
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025_2026.Properties.Resources.resources
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.csproj.GenerateResource.cache
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.csproj.CoreCompileInputs.cache
+D:\thanhtrong\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.exe.config
+D:\thanhtrong\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.exe
+D:\thanhtrong\DoAnTinHoc2025-2026\bin\Debug\DoAnTinHoc2025-2026.pdb
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.exe
+D:\thanhtrong\DoAnTinHoc2025-2026\obj\Debug\DoAnTinHoc2025-2026.pdb
